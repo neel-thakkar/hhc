@@ -1,0 +1,13 @@
+This is the Final Release of my Project
+
+Previously in the beta version, my website did not have required amount of functionality.
+But I have my some improvements after performing the Usability Test
+
+List of Improvements:
+
+1. In the Infobox, there was no link to call directly to the Hospital, but now you can do that as I have added the link
+
+2. The infobox is also fixed. Previously, the info box was small and needed to be scrolled to get more info, but now the user can see everything withoust scrolling which will save a lot of time
+
+3. I have added the functionality to the Dropdown box. So if you select a hospital from the list you can only see that hospital on the map
+
